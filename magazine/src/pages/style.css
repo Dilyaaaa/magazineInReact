@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Search and List Page */
+  
+  .search-bar {
+    margin-bottom: 10px;
+  }
+  
+  .sort-dropdown {
+    margin-bottom: 20px;
+  }
+  
+  .articles-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .articles-list li {
+    margin-bottom: 10px;
+  }
+  
+  /* Article Details Page */
+  
+  .article-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .article-authors {
+    margin-bottom: 10px;
+  }
+  
+  .article-keywords {
+    margin-bottom: 20px;
+  }
+  
+  .article-body {
+    margin-bottom: 20px;
+  }
+  
